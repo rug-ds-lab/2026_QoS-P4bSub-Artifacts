@@ -1,0 +1,13 @@
+# P4 artifacts
+*.p4i
+*.p4f
+/scripts/build/
+/pktgen/build/
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Data & Logs
+*.pcap
+*.log

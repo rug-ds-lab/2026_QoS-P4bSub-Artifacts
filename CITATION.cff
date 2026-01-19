@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these artifacts, please cite the paper as below."
+authors:
+  - family-names: "Boughzala"
+    given-names: "Bochra"
+  - family-names: "Koldehofe"
+    given-names: "Boris"
+title: "Delay-Sensitive In-Network QoS Management for Publish/Subscribe Communications"
+type: software
+version: 1.0.0
+repository-code: "https://github.com/rug-ds-lab/2026_QoS-P4bSub-Artifacts"
+notes: "Submitted to NOMS 2026 - IEEE/IFIP Network Operations and Management Symposium"
+abstract: >-
+  This repository provides QoS-P4bSub, a network-centric solution leveraging SDN and P4 
+  programmable data planes. It employs an FQ-CoDel-like Smart Queue Management (SQM) 
+  techniques to stabilize queueing delays for time-sensitive subscribers across 
+  various service classes (CoS).
+date-released: 2026-01-19
